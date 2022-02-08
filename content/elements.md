@@ -19,8 +19,8 @@ You can find my resume at [GitHub](https://github.com/honeypotfly) and [LinkedIn
 
 ## Skills & Interests
 
-| Operating Systems              | Cloud                 | Programming           | Security              |  
-| -------------------------------| ----------------------| ----------------------| ----------------------|
-| Comptia Linux+                 | AWS                   | Python                | LDAP                  |
-| RedHat & Debian Linux          | IAM                   | Go                    | Encryption            |
-| Windows                        | Github & GitLab CI/CD | Bash                  | Endpoint Protection   |
+| Operating Systems              | Cloud                 | Programming           | Security              | Tools                 |   
+| -------------------------------| ----------------------| ----------------------| ----------------------| ----------------------|
+| Comptia Linux+                 | AWS                   | Python                | LDAP                  | Docker                |
+| RedHat & Debian Linux          | IAM                   | Go                    | Encryption            | VirtualBox            |
+| Windows                        | Github & GitLab CI/CD | Bash                  | Endpoint Protection   | SQL & NoSQL Databases |
