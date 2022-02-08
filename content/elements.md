@@ -14,7 +14,7 @@ I am an Infrastructure and Security Engineer managing fleets of Linux machines u
 Out of work, I love to learn and play strategy games. I'm often on [TryHackMe](https://tryhackme.com/p/honeypotfly), playing with the rooms and working on Capture the Flags (CTFs). I also enjoy playing Chess, Minecraft, and League of Legends.
 
 ## Find
-You can find my resume on my [GitHub Pages](https://honeypotfly.github.io/Resume/) and [LinkedIn](https://www.linkedin.com/in/tarik-dahnoun-innovate/). To see what I'm working on, come to [My GitHub](https://github.com/honeypotfly) (it's growing!).
+You can find my resume on my [GitHub Pages](https://honeypotfly.github.io/Resume/) and [LinkedIn](https://www.linkedin.com/in/tarik-dahnoun-innovate/). To see what I'm working on, come to [My GitHub](https://github.com/honeypotfly) (it's growing!)
 
 ## Skills & Interests
 
