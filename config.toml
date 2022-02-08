@@ -1,4 +1,4 @@
-baseURL = "http://localhost/"
+baseURL = "https://tarikdahnoun.netlify.app/"
 languageCode = "en-us"
 title = "Hi, I'm Tarik Dahnoun"
 theme = "dimension"
