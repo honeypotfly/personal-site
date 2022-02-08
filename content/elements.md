@@ -7,7 +7,7 @@ title: whoami
 - [Table of contents](#table-of-contents)
 - [About](#about)
 - [Find](#find)
-- [Skills & Interests](#skills-and-interests)
+- [Skills & Interests](#skills-&-interests)
 
 ## About
 I am an Infrastructure and Security Engineer managing fleets of Linux machines used to deploy machine testing at Lenovo. I lead defensive information security in the Test Engineering department, including the assesmement of vulnerabilities and mitigation of attacks, such as log4j and cryptojacking malware.
