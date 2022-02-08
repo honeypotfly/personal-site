@@ -10,6 +10,7 @@ title: whoami
 - [Skills & Interests](#skills-and-interests)
 
 ## About
+I am an Infrastructure and Security Engineer managing fleets of Linux machines used to deploy machine testing at Lenovo. Leading defensive information security, including the assesmement of vulnerabilities and mitigation of attacks, including log4j and cryptojacking malware.
 
 ## Find
 You can find my resume at [GitHub](https://github.com/honeypotfly) and [LinkedIn](https://www.linkedin.com/in/tarik-dahnoun-innovate/).
@@ -20,4 +21,4 @@ You can find my resume at [GitHub](https://github.com/honeypotfly) and [LinkedIn
 | -------------------------------| ----------------------|
 | Comptia Linux+                 | AWS                   |
 | RedHat & Debian Linux          | IAM                   |
-| Windows                        | Github/GitLab CI/CD   |
+| Windows                        | Github & GitLab CI/CD |
