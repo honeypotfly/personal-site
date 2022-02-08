@@ -4,7 +4,6 @@ title: whoami
 
 ### I'm [@honeypotfly](https://github.com/honeypotfly)
 
-- [Table of contents](#table-of-contents)
 - [About](#about)
 - [Find](#find)
 - [Skills & Interests](#skills-&-interests)
