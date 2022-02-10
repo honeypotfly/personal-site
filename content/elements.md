@@ -6,7 +6,7 @@ title: whoami
 
 - [About](#about)
 - [Find](#find)
-- [Skills & Interests](#skills-&-interests)
+- [Interests](#interests)
 
 ## About
 I am an Infrastructure and Security Engineer managing fleets of Linux machines used to deploy machine testing at Lenovo. I lead defensive information security in the Test Engineering department, including the assesmement of vulnerabilities and mitigation of attacks, such as log4j and cryptojacking malware.
@@ -16,7 +16,7 @@ Out of work, I love to learn and play strategy games. I'm often on [TryHackMe](h
 ## Find
 You can find my resume on my [GitHub Pages](https://honeypotfly.github.io/Resume/) and [LinkedIn](https://www.linkedin.com/in/tarik-dahnoun-innovate/). To see what I'm working on, come to [My GitHub](https://github.com/honeypotfly) (it's growing!)
 
-## Skills & Interests
+## Interests
 
 | Operating Systems              | Cloud                 | Programming           | Security              | Tools                 |   
 | -------------------------------| ----------------------| ----------------------| ----------------------| ----------------------|
